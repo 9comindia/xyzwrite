@@ -843,7 +843,7 @@ func adminInitDatabase(app *App) error {
 		schemaFileName = "sqlite.sql"
 	}
 
-	schema, err := nil //Asset(schemaFileName)
+	schema, err := nil, nil //Asset(schemaFileName)
 	if err != nil {
 		return fmt.Errorf("Unable to load schema file: %v", err)
 	}
