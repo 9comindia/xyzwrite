@@ -57,4 +57,4 @@ require (
 	src.techknowlogick.com/xgo v0.0.0-20200129005940-d0fae26e014b // indirect
 )
 
-go 1.13
+go 1.12
