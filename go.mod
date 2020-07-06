@@ -1,5 +1,5 @@
 module github.com/writeas/writefreely
-
+// +heroku goVersion go1.13
 require (
 	github.com/alecthomas/gometalinter v3.0.0+incompatible // indirect
 	github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf // indirect
