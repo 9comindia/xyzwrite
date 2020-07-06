@@ -1,7 +1,6 @@
 module github.com/writeas/writefreely
-
+GOVERSION=go1.13
 require (
-	go 1.13
 	github.com/alecthomas/gometalinter v3.0.0+incompatible // indirect
 	github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf // indirect
 	github.com/clbanning/mxj v1.8.4 // indirect
